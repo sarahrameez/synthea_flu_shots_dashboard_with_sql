@@ -1,0 +1,1 @@
+This project uses available data from the open-source, synthetic patient generator 'Synthea', combining various files (patients, encounters, immunizations, conditions) to create a spreadsheet of active patients and their flu shot status. The tableau dashboard links to the PostgreSQL server to visualize this information.
